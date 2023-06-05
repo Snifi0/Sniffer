@@ -17,7 +17,7 @@
 (im way more of a hardware guy so, expect to see hardware stuff first)
 
 ### Hardware ###
-###### S2 Mini / ESP32-S3-WROOM-1 ######
+###### MCU ######
 
 * **S2**
 - Supporting IEEE 802.11b/g/n (2.4 GHz WiFi)
@@ -28,8 +28,18 @@
 - Supporting IEEE 802.11 b/g/n (2.4 GHz Wi-Fi) and Bluetooth® 5 (LE)
 + https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
 
-###### SubGhz ######
+###### RF ######
 
 * **CC1101**
 - 315/433/868/915 MHz
 + https://www.ti.com/lit/ds/symlink/cc1101.pdf
+
+* **pn532 - NFC**
+- Lots of support for diff types of cards
+- https://www.nxp.com/docs/en/nxp/data-sheets/PN532_C1.pdf
+
+* *more soon- *
+
+###### IR ######
+
+* nothing much to say here...
