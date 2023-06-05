@@ -2,7 +2,7 @@
 
 ## WIP ##
 
-######Short overview
+###### Short overview ######
 -Ctrl C sub ghz and 2.ghz + nfc + ir + ect.
 -Ctrl V to SD card for later repeating-
 -packet monitor and more???? 
@@ -16,7 +16,7 @@
 *sum moor stuff
 (im way more of a hardware guy so, expect to see hardware stuff first)
 
-###Hardware
+### Hardware ###
 - S2 Mini / ESP32-S3-WROOM-1
 + SoC with Xtensa® SingleCore 32bit LX7 Microprocessor
 +Supporting IEEE 802.11b/g/n (2.4 GHz WiFi)
