@@ -3,7 +3,7 @@
 ## WIP ##
 
 ##### Short overview #####
--Ctrl C sub ghz and 2.ghz + nfc + ir + ect.
+-Ctrl C sub ghz and 2.ghz + nfc + ir + badusb ect.
 -Ctrl V to SD card for later repeating-
 -packet monitor and more???? 
 -woah? must be a dream- and is... FOR NOW! 
