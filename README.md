@@ -19,14 +19,12 @@
 ### Hardware ###
 ###### S2 Mini / ESP32-S3-WROOM-1 ######
 
+* S2
+- Supporting IEEE 802.11b/g/n (2.4 GHz WiFi)
++ https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf
 
-+ SoC with Xtensa® SingleCore 32bit LX7 Microprocessor
-+Supporting IEEE 802.11b/g/n (2.4 GHz WiFi)
-+https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf
 
-
-- S3
-+2.4 GHz Wi-Fi + Bluetooth® LE SoC
-+Supporting IEEE 802.11 b/g/n (2.4 GHz Wi-Fi) and Bluetooth® 5 (LE)
-+https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
+* S3
+- Supporting IEEE 802.11 b/g/n (2.4 GHz Wi-Fi) and Bluetooth® 5 (LE)
++ https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
 
