@@ -17,10 +17,6 @@ Proceed with caution, and use this project solely for educational purposes to en
 
 
 
-
-THIS REPO IS FOR EDUCATIONAL PURPUSES
-identify potential security vulnerabilities
-
 ## WIP ##
 
 ##### Short overview #####
