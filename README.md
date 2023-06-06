@@ -17,7 +17,7 @@
 (im way more of a hardware guy so, expect to see hardware stuff first)
 
 ### Hardware ###
-###### MCU ######
+###### MCU (not sure which one to use yet) ######
 
 * **S2**
 - Supporting IEEE 802.11b/g/n (2.4 GHz WiFi)
