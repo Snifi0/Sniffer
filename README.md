@@ -1,5 +1,26 @@
 # Sniffer
 
+
+**Warning: For Educational Purposes Only**
+
+The "Sniffer" project is intended solely for educational purposes. It encompasses various technologies, including sub-GHz, WI-FI, Bluetooth NFC, IR, and BadUSB, to provide an educational understanding of their functionalities and potential vulnerabilities.
+
+Please note the following:
+
+1. This project should not be used for any malicious, illegal, or unethical activities.
+2. Unauthorized and intrusive use of the technologies demonstrated in this project may violate privacy laws and regulations.
+3. The author of the "Sniffer" project are not liable for any misuse, harm, or unlawful actions carried out using this codebase.
+
+By accessing or using the "Sniffer" project, you agree to use it responsibly and within legal and ethical boundaries. Always obtain proper authorization and adhere to applicable laws and regulations in your jurisdiction.
+
+Proceed with caution, and use this project solely for educational purposes to enhance your understanding of sub-GHz, WI-FI, Bluetooth NFC, IR, BadUSB, and related technologies.
+
+
+
+
+THIS REPO IS FOR EDUCATIONAL PURPUSES
+identify potential security vulnerabilities
+
 ## WIP ##
 
 ##### Short overview #####
