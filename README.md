@@ -20,18 +20,18 @@ Proceed with caution, and use this project solely for educational purposes to en
 ## WIP ##
 
 ##### Short overview #####
--Ctrl C sub ghz and 2.ghz + nfc + ir + badusb ect.
--Ctrl V to SD card for later repeating-
--packet monitor and more???? 
--woah? must be a dream- and is... FOR NOW! 
+1. Ctrl C sub ghz and 2.ghz + nfc + ir + badusb ect.
+2. Ctrl V to SD card for later repeating-
+3. packet monitor and more???? 
+4. woah? must be a dream- and is... FOR NOW! 
 (This gonna take 15 million decades to make alone- if you wanna help develop msg me on discord (Snifi#4084))
--Star and wait!
-
-*Gonna be diy friendly!! :D
-*cheap if lazy to make
-*good alternative to flipper 0 (and way cheaper)
-*sum moor stuff
-(im way more of a hardware guy so, expect to see hardware stuff first)
+5. Star and wait!
+-
+6. Gonna be diy friendly!! :D
+7. cheap if lazy to make
+8. good alternative to flipper 0 (and way cheaper)
+9. sum moor stuff
+10. (im way more of a hardware guy so, expect to see hardware stuff first)
 
 ### Hardware ###
 ###### MCU (not sure which one to use yet) ######
