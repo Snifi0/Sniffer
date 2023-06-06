@@ -3,7 +3,7 @@
 
 **Warning: For Educational Purposes Only**
 
-The "Sniffer" project is intended solely for educational purposes. It encompasses various technologies, including sub-GHz, WI-FI, Bluetooth NFC, IR, and BadUSB, to provide an educational understanding of their functionalities and potential vulnerabilities.
+The "Sniffer" project is intended solely for educational purposes. It encompasses various technologies, including sub-GHz, WI-FI, Bluetooth, NFC, IR, and BadUSB, to provide an educational understanding of their functionalities and potential vulnerabilities.
 
 Please note the following:
 
@@ -13,7 +13,7 @@ Please note the following:
 
 By accessing or using the "Sniffer" project, you agree to use it responsibly and within legal and ethical boundaries. Always obtain proper authorization and adhere to applicable laws and regulations in your jurisdiction.
 
-Proceed with caution, and use this project solely for educational purposes to enhance your understanding of sub-GHz, WI-FI, Bluetooth NFC, IR, BadUSB, and related technologies.
+Proceed with caution, and use this project solely for educational purposes to enhance your understanding of sub-GHz, WI-FI, Bluetooth, NFC, IR, BadUSB, and related technologies.
 
 
 
