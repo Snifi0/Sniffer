@@ -24,7 +24,7 @@ Proceed with caution, and use this project solely for educational purposes to en
 2. Ctrl V to SD card for later repeating-
 3. packet monitor and more???? 
 4. woah? must be a dream- and is... FOR NOW! 
-(This gonna take 15 million decades to make alone- if you wanna help develop msg me on discord (Snifi#4084))
+(This gonna take 15 million decades to finish alone- if you wanna help develop msg me on discord (Snifi#4084))
 5. Star and wait!
 -
 6. Gonna be diy friendly!! :D
@@ -32,6 +32,7 @@ Proceed with caution, and use this project solely for educational purposes to en
 8. good alternative to flipper 0 (and way cheaper)
 9. sum moor stuff
 10. (im way more of a hardware guy so, expect to see hardware stuff first)
+11. ps:yall think ill give out the code jus like that? thats like givin' a baby a gun
 
 ### Hardware ###
 ###### MCU (not sure which one to use yet) ######
