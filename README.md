@@ -1,38 +1,23 @@
 # Sniffer
 
-
-**Warning: For Educational Purposes Only**
-
-The "Sniffer" project is intended solely for educational purposes. It encompasses various technologies, including sub-GHz, WI-FI, Bluetooth, NFC, IR, and BadUSB, to provide an educational understanding of their functionalities and potential vulnerabilities.
+***Some of the features of the sniffer could be used for malicious, illegal, or unethical activities.***
 
 Please note the following:
-
 1. This project should not be used for any malicious, illegal, or unethical activities.
 2. Unauthorized and intrusive use of the technologies demonstrated in this project may violate privacy laws and regulations.
 3. The author of the "Sniffer" project are not liable for any misuse, harm, or unlawful actions carried out using this codebase.
 
-By accessing or using the "Sniffer" project, you agree to use it responsibly and within legal and ethical boundaries. Always obtain proper authorization and adhere to applicable laws and regulations in your jurisdiction.
-
-Proceed with caution, and use this project solely for educational purposes to enhance your understanding of sub-GHz, WI-FI, Bluetooth, NFC, IR, BadUSB, and related technologies.
-
-
-
 ## WIP ##
 
 ##### Short overview #####
-1. Ctrl C sub ghz and 2.ghz + nfc + ir + badusb ect.
-2. Ctrl V to SD card for later repeating-
-3. packet monitor and more???? 
-4. woah? must be a dream- and is... FOR NOW! 
-(This gonna take 15 million decades to finish alone- if you wanna help develop msg me on discord (Snifi#4084))
-5. Star and wait!
--
-6. Gonna be diy friendly!! :D
-7. cheap if lazy to make
-8. good alternative to flipper 0 (and way cheaper)
-9. sum moor stuff
-10. (im way more of a hardware guy so, expect to see hardware stuff first)
-11. ps:yall think ill give out the code jus like that? thats like givin' a baby a gun
+1. Multimeter, Sub-Ghz, EMF, 2.4Ghz, NFC, Ir, badusb, ect.
+2. woah? must be a dream- and is... FOR NOW! 
+(This gonna take 15 million decades to finish alone- if you wanna help develop msg me on discord (.snifi))
+4. Gonna be diy friendly!! :D
+5. cheap if lazy to make (hopefully)
+6. good alternative to flipper 0 (and way cheaper)
+7. sum moor stuff
+8. (im way more of a hardware guy so, expect to see hardware stuff first)
 
 ### Hardware ###
 ###### MCU (not sure which one to use yet) ######
@@ -61,3 +46,12 @@ Proceed with caution, and use this project solely for educational purposes to en
 ###### IR ######
 
 * nothing much to say here...
+
+###### Electric Mesurement ######
+
+* **INA219 - Current**
+- 26V MAX
+- 3.2A MAX
+
+* **EMF: resistor and a wire**
+* props to this >> http://www.aaronalai.com/emf-detector
