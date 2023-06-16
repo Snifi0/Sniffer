@@ -15,9 +15,8 @@ Please note the following:
 (This gonna take 15 million decades to finish alone- if you wanna help develop msg me on discord (.snifi))
 4. Gonna be diy friendly!! :D
 5. cheap if lazy to make (hopefully)
-6. good alternative to flipper 0 (and way cheaper)
-7. sum moor stuff
-8. (im way more of a hardware guy so, expect to see hardware stuff first)
+6. sum moor stuff
+7. (im way more of a hardware guy so, expect to see hardware stuff first)
 
 ### Hardware ###
 ###### MCU (not sure which one to use yet) ######
