@@ -55,3 +55,5 @@ Please note the following:
 
 * **EMF: resistor and a wire**
 * props to this >> http://www.aaronalai.com/emf-detector
+
+* **Metal detector: wire cap and diode**
