@@ -10,7 +10,7 @@ Please note the following:
 ## WIP ##
 
 ##### Short overview #####
-1. Multimeter, Sub-Ghz, EMF, 2.4Ghz, NFC, Ir, badusb, ect.
+1. Sub-Ghz, EMF, 2.4Ghz, NFC, Ir, badusb, ect.
 2. woah? must be a dream- and is... FOR NOW! 
 (This gonna take 15 million decades to finish alone- if you wanna help develop msg me on discord (.snifi))
 4. Gonna be diy friendly!! :D
@@ -48,11 +48,5 @@ Please note the following:
 
 ###### Electric Mesurement ######
 
-* **INA219 - Current**
-- 26V MAX
-- 3.2A MAX
-
 * **EMF: resistor and a wire**
 * props to this >> http://www.aaronalai.com/emf-detector
-
-* **Metal detector: wire cap and diode**
