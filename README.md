@@ -5,12 +5,12 @@
 Please note the following:
 1. This project should not be used for any malicious, illegal, or unethical activities.
 2. Unauthorized and intrusive use of the technologies demonstrated in this project may violate privacy laws and regulations.
-3. The author of the "Sniffer" project are not liable for any misuse, harm, or unlawful actions carried out using this codebase.
+3. The author of the "Sniffer" project are not liable for any misuse, harm, or unlawful actions carried out using this base.
 
 ## WIP ##
 
 ##### Short overview #####
-1. Sub-Ghz, EMF, 2.4Ghz, NFC, Ir, badusb, ect.
+1. Sub-Ghz, 2.4Ghz, NFC, RFID, Ir, badusb, ect.
 2. woah? must be a dream- and is... FOR NOW! 
 (This gonna take 15 million decades to finish alone- if you wanna help develop msg me on discord (.snifi))
 4. Gonna be diy friendly!! :D
